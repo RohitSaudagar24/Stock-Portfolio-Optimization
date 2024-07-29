@@ -1,7 +1,7 @@
 # Stock Market Portfolio Optimization
 This project focuses on optimizing a stock portfolio to maximize the Sharpe ratio, which measures the performance of an investment compared to a risk-free asset, after adjusting for its risk. By using historical stock data and advanced statistical methods, the project identifies the optimal allocation of assets to achieve the best risk-adjusted return.
 
-# Features
+## Features
 Data Collection: Retrieved historical price data for a set of assets using the Yahoo Finance API.
 Data Preprocessing: Cleaned and processed data to calculate daily returns, mean returns, and the covariance matrix.
 Portfolio Simulation: Generated and evaluated 10,000 random portfolios to calculate expected returns, volatility, and Sharpe ratios.
